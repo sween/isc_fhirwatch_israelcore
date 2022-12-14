@@ -1,0 +1,9 @@
+ npm --registry https://packages.simplifier.net install il.core.fhir.r4@0.10.1 --dev
+ npm --registry https://packages.simplifier.net install hl7.fhir.r4.core@4.0.1 --dev
+ npm --registry https://packages.simplifier.net install hl7.fhir.us.core@5.0.1 --dev
+ npm --registry https://packages.simplifier.net install hl7.terminology.r4@3.1.0 --dev
+ npm --registry https://packages.simplifier.net install hl7.fhir.uv.bulkdata@2.0.0 --dev
+ npm --registry https://packages.simplifier.net install hl7.fhir.uv.smart-app-launch@2.0.0 --dev
+ npm --registry https://packages.simplifier.net install us.nlm.vsac@0.7.0 --dev
+ npm --registry https://packages.simplifier.net install hl7.fhir.uv.sdc@3.0.0 --dev
+ npm --registry https://packages.simplifier.net install hl7.fhir.r4.examples@4.0.1 --dev

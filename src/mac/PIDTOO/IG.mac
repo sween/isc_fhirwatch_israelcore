@@ -1,0 +1,6 @@
+ROUTINE IG 
+
+GetCurrentNamespace() public {
+	
+	return $Namespace
+}
